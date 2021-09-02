@@ -29,13 +29,15 @@
 
 
 ## About The Project
-
-![Screen Shot](images/csvSS.png)
-![Screen Shot](images/JSONSS.png)
-
 Simple web scraper for Amazon website.  
 It will create a '.json' and a '.csv' file filled with the data defined from the 'URLS' variable.  
 In addition, it will save the image of the products in: './images/id.jpg'.
+![Screen Shot](images/csvSS.png)
+![Screen Shot](images/JSONSS.png)
+![Screen Shot](images/keyboardSS.png)
+![Screen Shot](images/headsetSS.png)
+
+
 ## Built With
 
 * Node.js
